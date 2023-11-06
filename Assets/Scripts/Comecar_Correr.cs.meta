@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d37757bb18f786b40be924b4766dca50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - spritePulo: {fileID: 1594145929, guid: af89ddda03ab8664c92604972366dbe5, type: 3}
+  - JumpSound: {fileID: 8300000, guid: 4de2be39f87eceb4e8b08cc598cf29d1, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

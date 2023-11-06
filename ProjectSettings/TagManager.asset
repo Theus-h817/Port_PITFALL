@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Escada
+  - Chao
+  - Barreiras
+  - Buraco
+  - Cipo
+  - Mob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Escada
+  - Water
+  - UI
+  - Chao
+  - Player e Mobs
+  - Barreiras
+  - Buraco
+  - Cipo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: objetos
+    uniqueID: 4153210147
+    locked: 0
+  - name: escadas
+    uniqueID: 347216771
+    locked: 0
+  - name: player e mobs
+    uniqueID: 974819227
+    locked: 0
+  - name: "Ch\xE3o"
+    uniqueID: 161075201
+    locked: 0

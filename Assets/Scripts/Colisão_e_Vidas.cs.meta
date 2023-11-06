@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1e82462c92998049b98dc1fb650562a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pontoInicial: {instanceID: 0}
+  - perdaVidaSound: {fileID: 8300000, guid: 279eb6f56e7bf304cb8fb035c4449a54, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 6a478764c5868b649ac86be057225385, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
